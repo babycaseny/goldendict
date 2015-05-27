@@ -49,6 +49,16 @@
 <context>
     <name>ArticleMaker</name>
     <message>
+        <location filename="../article_maker.cc" line="188"></location>
+        <source>No translation for &lt;b&gt;%1&lt;/b&gt; was found in group &lt;b&gt;%2&lt;/b&gt;.</source>
+        <translation>Mwu transleiçion für &lt;b&gt;%1&lt;/b&gt; fainden in grūp &lt;b&gt;%2&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../article_maker.cc" line="241"></location>
+        <source>Welcome!</source>
+        <translation>Welkom!</translation>
+    </message>
+    <message>
         <location filename="../article_maker.cc" line="153"></location>
         <source>Expand article</source>
         <translation>Ikspänd artikol</translation>
@@ -59,19 +69,9 @@
         <translation>Kolläps artikol</translation>
     </message>
     <message>
-        <location filename="../article_maker.cc" line="188"></location>
-        <source>No translation for &lt;b&gt;%1&lt;/b&gt; was found in group &lt;b&gt;%2&lt;/b&gt;.</source>
-        <translation>Mwu transleiçion für &lt;b&gt;%1&lt;/b&gt; fainden in grūp &lt;b&gt;%2&lt;/b&gt;.</translation>
-    </message>
-    <message>
         <location filename="../article_maker.cc" line="193"></location>
         <source>No translation was found in group &lt;b&gt;%1&lt;/b&gt;.</source>
         <translation>Mwu transleiçion wa fainden in grūp &lt;b&gt;%1&lt;/b&gt;.</translation>
-    </message>
-    <message>
-        <location filename="../article_maker.cc" line="241"></location>
-        <source>Welcome!</source>
-        <translation>Welkom!</translation>
     </message>
     <message>
         <location filename="../article_maker.cc" line="243"></location>
@@ -602,32 +602,32 @@
     <message>
         <location filename="../groups.ui" line="116"></location>
         <source>Groups:</source>
-        <translation>Grups:</translation>
+        <translation>Grūps:</translation>
     </message>
     <message>
         <location filename="../groups.ui" line="130"></location>
         <source>Tab 2</source>
-        <translation>Pestaña 2</translation>
+        <translation>Täb 2</translation>
     </message>
     <message>
         <location filename="../groups.ui" line="140"></location>
         <source>Create new dictionary group</source>
-        <translation>Crear un nuevo grupo de diccionarios</translation>
+        <translation>Krieit 1-gè niu dikçionari grūp</translation>
     </message>
     <message>
         <location filename="../groups.ui" line="143"></location>
         <source>&amp;Add group</source>
-        <translation>&amp;Agregar grupo</translation>
+        <translation>Ä&amp;dd grūp</translation>
     </message>
     <message>
         <location filename="../groups.ui" line="150"></location>
         <source>Create language-based groups</source>
-        <translation>Crear grupos de diccionarios automáticamente, basados en el idioma de cada diccionario en particular</translation>
+        <translation>Krieit leŋgueij-beisen grūps òtomeitikolli</translation>
     </message>
     <message>
         <location filename="../groups.ui" line="153"></location>
         <source>Auto groups</source>
-        <translation>Auto-agrupar</translation>
+        <translation>Òto-grūps</translation>
     </message>
     <message>
         <location filename="../groups.ui" line="160"></location>
@@ -4061,17 +4061,17 @@ Todavía no está implementado en GoldenDict.</translation>
     <message>
         <location filename="../sources.cc" line="539"></location>
         <source>Enabled</source>
-        <translation>Activado</translation>
+        <translation>Enàbolen</translation>
     </message>
     <message>
         <location filename="../sources.cc" line="541"></location>
         <source>Name</source>
-        <translation>Nombre</translation>
+        <translation>Neim</translation>
     </message>
     <message>
         <location filename="../sources.cc" line="543"></location>
         <source>Address</source>
-        <translation>Dirección</translation>
+        <translation>Ädjres</translation>
     </message>
 </context>
 <context>
@@ -4083,3 +4083,4 @@ Todavía no está implementado en GoldenDict.</translation>
     </message>
 </context>
 </TS>
+
