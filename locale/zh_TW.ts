@@ -5,7 +5,7 @@
     <name>About</name>
     <message>
         <source>About</source>
-        <translation>關於</translation>
+        <translation>有關</translation>
     </message>
     <message>
         <source>GoldenDict dictionary lookup program, version </source>
